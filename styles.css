@@ -22,8 +22,8 @@ header .logo {
 }
 
 header .logo img {
-    width: 100px; /* กำหนดความกว้างของโลโก้ */
-    height: auto; /* ให้ความสูงปรับตามอัตราส่วนความกว้าง */
+    width: 100px; 
+    height: auto; 
 }
 
 nav ul {
