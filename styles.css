@@ -1,4 +1,4 @@
-/* Global Styles */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -7,7 +7,7 @@ body {
     color: #333;
 }
 
-/* Header Styles */
+
 header {
     display: flex;
     justify-content: space-between;
@@ -37,7 +37,7 @@ nav ul li a {
     text-decoration: none;
 }
 
-/* Hero Section Styles */
+
 #hero {
     background-color: #007BFF;
     color: white;
@@ -53,7 +53,7 @@ nav ul li a {
     cursor: pointer;
 }
 
-/* Main Content Styles */
+
 main {
     padding: 20px;
 }
@@ -73,7 +73,7 @@ main {
     margin-top: 20px;
 }
 
-/* Footer Styles */
+
 footer {
     background-color: #333;
     color: white;
@@ -81,7 +81,7 @@ footer {
     padding: 10px 0;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
     #about {
         grid-template-columns: 1fr;
